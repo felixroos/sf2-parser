@@ -1,3 +1,7 @@
+This is a fork of <https://github.com/colinbdclark/sf2-parser>.
+I plan to revamp the parser for a modern JS toolstack + publish it on npm.
+The rest of the readme remains untouched
+
 SoundFont 2 (and 3) Parser
 ==================
 
